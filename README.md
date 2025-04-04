@@ -35,15 +35,15 @@ The dataset used for this analysis is **"Airbnb New York Listings 2024"**, conta
 
 - **Listings by Borough:** Distribution of Airbnb listings in each NYC borough.
 
-- Room Type Analysis: Understanding the share of private rooms, shared rooms, and entire apartments.
+- **Room Type Analysis:** Understanding the share of private rooms, shared rooms, and entire apartments.
 
-- Price Analysis: Visualizing the price distribution and detecting outliers.
+- **Price Analysis:** Visualizing the price distribution and detecting outliers.
 
-- Availability Trends: Analyzing how many days listings are available per year.
+- **Availability Trends:** Analyzing how many days listings are available per year.
 
-- Correlation Analysis: Exploring relationships between numerical variables.
+- **Correlation Analysis:** Exploring relationships between numerical variables.
 
-- Geospatial Heatmaps: Mapping Airbnb listings across NYC.
+- **Geospatial Heatmaps:** Mapping Airbnb listings across NYC.
 
 ## 📷 **Sample Visualizations**
 
