@@ -47,17 +47,17 @@ The dataset used for this analysis is **"Airbnb New York Listings 2024"**, conta
 
 ## 📷 **Sample Visualizations**
 
-📍 Geospatial Heatmap of Airbnb listings.
+📍 **Geospatial Heatmap** of Airbnb listings.
 
-📊 Bar charts for borough-wise distributions.
+📊 **Bar charts** for borough-wise distributions.
 
-📈 Histograms and boxplots for price and availability trends.
+📈 **Histograms and Boxplots** for price and availability trends.
 
-🔥 Correlation heatmap to identify numerical relationships.
+🔥 **Correlation Heatmap**to identify numerical relationships.
 
 ## ✅ **Key Findings**
 
-🏙 Most listings are in Manhattan and Brooklyn.
+🏙 Most listings are in **Manhattan** and **Brooklyn**.
 
 🏡 Entire homes/apartments dominate the listings.
 
