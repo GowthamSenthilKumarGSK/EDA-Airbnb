@@ -33,7 +33,7 @@ The dataset used for this analysis is **"Airbnb New York Listings 2024"**, conta
 
 ## **Visualizations & Insights**
 
-- Listings by Borough: Distribution of Airbnb listings in each NYC borough.
+- 'Listings by Borough:' Distribution of Airbnb listings in each NYC borough.
 
 - Room Type Analysis: Understanding the share of private rooms, shared rooms, and entire apartments.
 
